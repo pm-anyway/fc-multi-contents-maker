@@ -1,9 +1,6 @@
 # macOS
 .DS_Store
 
-# Claude 내부 캐시
-.claude/
-
 # Node.js 패키지
 node_modules/
 **/node_modules/
