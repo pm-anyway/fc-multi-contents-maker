@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Claude 내부 캐시
+.claude/
+
+# Node.js 패키지
+node_modules/
+**/node_modules/
+
+# 동영상 파일 (용량 큰 바이너리)
+*.mp4
+*.mov
+*.avi
+
+# 환경 변수
+.env
+.env.local

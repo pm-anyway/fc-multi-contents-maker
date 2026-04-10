@@ -1,0 +1,46 @@
+{
+  "reviewed_at": "2026-03-23T15:30:00Z",
+  "source_slug": "shumer-something-big",
+  "rounds": 1,
+  "overall": "pass",
+  "files": {
+    "threads.md": {
+      "status": "pass",
+      "checks": {
+        "forbidden_expressions": { "result": "pass", "found": [] },
+        "main_thread_length": { "result": "pass", "chars": 198, "limit": 500 },
+        "reply_lengths": { "result": "pass", "reply1": 121, "reply2": 132, "reply3": 95, "limit": 300 },
+        "source_facts_only": { "result": "pass" },
+        "hook_quality": { "result": "pass", "note": "첫 줄 15자 이내, 강렬한 문장" }
+      },
+      "warnings": []
+    },
+    "linkedin.md": {
+      "status": "pass",
+      "checks": {
+        "forbidden_expressions": { "result": "pass", "found": [] },
+        "consecutive_imnida": { "result": "pass", "note": "연속 3문장 없음" },
+        "ends_with_question": { "result": "pass" },
+        "source_facts_only": { "result": "pass" },
+        "hashtags": { "result": "pass", "count": 5 }
+      },
+      "warnings": [
+        { "code": "LINKEDIN_LENGTH", "message": "글자 수 약 1,050자 — 권장 범위(800-1500자) 내" }
+      ]
+    },
+    "newsletter.html": {
+      "status": "pass",
+      "checks": {
+        "forbidden_expressions": { "result": "pass", "found": [] },
+        "doctype_present": { "result": "pass" },
+        "no_external_stylesheet": { "result": "pass", "note": "<link rel='stylesheet'> 없음, @import는 <style> 블록 내부 사용" },
+        "source_facts_only": { "result": "pass" },
+        "inline_css": { "result": "pass" }
+      },
+      "warnings": [
+        { "code": "FONT_SIZE_SMALL", "message": ".point-text 14px — 모바일 최소 권장(15px) 미달" }
+      ]
+    }
+  },
+  "notes": "전체 pass. newsletter .point-text 폰트 14px는 경고 수준이며 전체 결과에 영향 없음."
+}

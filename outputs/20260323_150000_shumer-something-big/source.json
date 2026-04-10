@@ -1,0 +1,28 @@
+{
+  "title": "Something Big Is Happening",
+  "source_url": "https://shumer.dev/something-big-is-happening",
+  "source_type": "article",
+  "author": "Matt Shumer",
+  "published_at": "2026-02-09",
+  "summary": "OthersAI 전문가 Matt Shumer가 AI 기술 발전이 단순한 화두가 아닌 이미 진행 중인 현실이라고 경고한다. AI는 모든 인지 작업을 자동화할 수 있는 범용 기술로, 2022년 기본 연산도 못 하던 AI가 2025년엔 최고 엔지니어들이 코딩 대부분을 맡길 만큼 성장했다. 모델 성능은 약 7개월마다 두 배씩 증가하고 있고, AI가 자기 자신의 다음 세대를 만드는 자기 개선 루프가 이미 시작됐다. 지금 적극적으로 AI를 실험하는 사람이 결국 앞서게 된다.",
+  "key_points": [
+    "이미 일어나고 있다 — AI는 추상적 미래 얘기가 아니다. 2025년 말, 세계 최고 엔지니어들이 코딩 업무 대부분을 AI에게 넘겼다",
+    "7개월마다 2배 — AI 모델 성능이 약 7개월 주기로 두 배씩 향상되고 있다. 이 속도가 계속된다면 올해 안에 대규모 직업 교란이 현실화될 수 있다",
+    "AI가 AI를 만든다 — GPT-5.3-Codex는 자기 자신을 만드는 데 핵심 역할을 한 첫 번째 모델이다. 자기 개선 루프가 시작됐다",
+    "컴퓨터로 하는 일은 전부 위험하다 — 법률, 금융, 의학, 고객서비스 등 화이트칼라 직업 전반이 중기적으로 영향을 받는다. Dario Amodei는 1-5년 내 진입 수준 화이트칼라 직업 50%가 사라질 것으로 예측했다",
+    "지금 시작하는 사람이 이긴다 — 매일 1시간 AI 실험을 6개월만 해도 99%의 사람들보다 앞설 수 있다",
+    "두려움이 아닌 호기심으로 — 저자는 '가장 잘 살아남을 사람은 지금 두려움이 아닌 호기심과 긴박감으로 AI를 시작하는 사람'이라고 말한다",
+    "당신의 꿈이 훨씬 가까워졌다 — AI 도구의 민주화로 과거엔 큰 팀이 필요했던 것들을 혼자서도 할 수 있게 됐다"
+  ],
+  "quotes": [
+    "We're past the point where this is an interesting dinner conversation about the future.",
+    "In 2022, AI couldn't do basic arithmetic reliably... By late 2025, some of the best engineers in the world said they had handed over most of their coding work to AI.",
+    "Nothing that can be done on a computer is safe in the medium term.",
+    "The people who will come out of this best are the ones who start engaging now — not with fear, but with curiosity and a sense of urgency.",
+    "Your dreams just got a lot closer."
+  ],
+  "tone": "inspirational",
+  "keywords": ["AI 혁신", "직업 미래", "화이트칼라", "자기 개선 AI", "생존 전략", "Matt Shumer"],
+  "target_audience": "마케터, 직장인, AI 시대를 준비하는 사람",
+  "extracted_at": "2026-03-23T15:00:00Z"
+}

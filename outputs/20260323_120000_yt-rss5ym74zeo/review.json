@@ -1,0 +1,22 @@
+{
+  "reviewed_at": "2026-03-23T12:08:00Z",
+  "overall": "pass",
+  "rounds": 2,
+  "items": {
+    "threads": {
+      "status": "pass",
+      "issues": []
+    },
+    "linkedin": {
+      "status": "pass",
+      "issues": [],
+      "fixed": ["'게임체인저' → 대체 표현으로 수정 완료 (1차 검수 후 재생성)"]
+    },
+    "newsletter": {
+      "status": "pass",
+      "issues": [],
+      "fixed": ["'패러다임' → 구체적 사용 예시 문장으로 수정 완료 (1차 검수 후 재생성)"]
+    }
+  },
+  "summary": "2차 검수 전체 통과. 금지 표현 0건, DOCTYPE 포함, 외부 CSS 없음, Threads 메인 340자(500자 이하). 모든 항목 pass."
+}
